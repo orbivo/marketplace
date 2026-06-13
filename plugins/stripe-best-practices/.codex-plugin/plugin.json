@@ -1,0 +1,33 @@
+{
+  "name": "stripe-best-practices",
+  "version": "1.0.1",
+  "description": "Guides Stripe integration",
+  "author": {
+    "name": "Ray睿",
+    "url": "https://orbivo.co/@ray-realms"
+  },
+  "homepage": "https://orbivo.co/p/stripe-best-practices",
+  "repository": "https://github.com/orbivo/marketplace",
+  "license": "Proprietary",
+  "keywords": [
+    "ray-realms",
+    "skill",
+    "streamed",
+    "live",
+    "orbivo"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "stripe-best-practices",
+    "shortDescription": "Guides Stripe integration",
+    "longDescription": "Guides Stripe integration",
+    "developerName": "Ray睿",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://orbivo.co/p/stripe-best-practices",
+    "defaultPrompt": [],
+    "brandColor": "#1F6FEB"
+  }
+}
