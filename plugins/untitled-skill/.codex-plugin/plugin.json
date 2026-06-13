@@ -1,0 +1,31 @@
+{
+  "name": "untitled-skill",
+  "version": "1.1.0",
+  "description": "Untitled Skill",
+  "author": {
+    "name": "Ray睿",
+    "url": "https://orbivo.co/@ray-realms"
+  },
+  "homepage": "https://orbivo.co/p/untitled-skill",
+  "repository": "https://github.com/orbivo/marketplace",
+  "license": "Proprietary",
+  "keywords": [
+    "ray-realms",
+    "prompt",
+    "orbivo"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Untitled Skill",
+    "shortDescription": "Untitled Skill",
+    "longDescription": "Untitled Skill",
+    "developerName": "Ray睿",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://orbivo.co/p/untitled-skill",
+    "defaultPrompt": [],
+    "brandColor": "#1F6FEB"
+  }
+}

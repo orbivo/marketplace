@@ -1,0 +1,31 @@
+{
+  "name": "agent-skill",
+  "version": "1.0.0",
+  "description": "示範完整下載：寫好一個 SKILL.md 的最小骨架",
+  "author": {
+    "name": "Ray",
+    "url": "https://orbivo.co/@ray"
+  },
+  "homepage": "https://orbivo.co/p/agent-skill",
+  "repository": "https://github.com/orbivo/marketplace",
+  "license": "Proprietary",
+  "keywords": [
+    "ray",
+    "skill",
+    "orbivo"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Agent Skill 起手式",
+    "shortDescription": "示範完整下載：寫好一個 SKILL.md 的最小骨架",
+    "longDescription": "示範完整下載：寫好一個 SKILL.md 的最小骨架",
+    "developerName": "Ray",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://orbivo.co/p/agent-skill",
+    "defaultPrompt": [],
+    "brandColor": "#1F6FEB"
+  }
+}

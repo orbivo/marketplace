@@ -1,0 +1,31 @@
+{
+  "name": "shopline-payments-zingla-bnpl",
+  "version": "1.0.0",
+  "description": "任務：為 SHOPLINE Payments 金流加入「分期付款」功能（信用卡分期 + 中租 zingla 銀角零卡 BNPL）",
+  "author": {
+    "name": "Ray睿",
+    "url": "https://orbivo.co/@ray-realms"
+  },
+  "homepage": "https://orbivo.co/p/shopline-payments-zingla-bnpl",
+  "repository": "https://github.com/orbivo/marketplace",
+  "license": "Proprietary",
+  "keywords": [
+    "ray-realms",
+    "prompt",
+    "orbivo"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "任務：為 SHOPLINE Payments 金流加入「分期付款」功能（信用卡分期 + 中租 zingla 銀角零卡 BNPL）",
+    "shortDescription": "任務：為 SHOPLINE Payments 金流加入「分期付款」功能（信用卡分期 + 中租 zingla 銀角零卡 BNPL）",
+    "longDescription": "任務：為 SHOPLINE Payments 金流加入「分期付款」功能（信用卡分期 + 中租 zingla 銀角零卡 BNPL）",
+    "developerName": "Ray睿",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://orbivo.co/p/shopline-payments-zingla-bnpl",
+    "defaultPrompt": [],
+    "brandColor": "#1F6FEB"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "threads-hook-writer",
+  "version": "1.0.1",
+  "description": "貼上主題，產出 5 條能停住拇指的 Threads 開場句",
+  "author": {
+    "name": "Ray",
+    "url": "https://orbivo.co/@ray"
+  },
+  "homepage": "https://orbivo.co/p/threads-hook-writer",
+  "repository": "https://github.com/orbivo/marketplace",
+  "license": "Proprietary",
+  "keywords": [
+    "ray",
+    "prompt",
+    "orbivo"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Threads 開場鉤子寫手",
+    "shortDescription": "貼上主題，產出 5 條能停住拇指的 Threads 開場句",
+    "longDescription": "貼上主題，產出 5 條能停住拇指的 Threads 開場句",
+    "developerName": "Ray",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://orbivo.co/p/threads-hook-writer",
+    "defaultPrompt": [],
+    "brandColor": "#1F6FEB"
+  }
+}

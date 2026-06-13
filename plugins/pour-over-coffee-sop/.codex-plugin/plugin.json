@@ -1,0 +1,39 @@
+{
+  "name": "pour-over-coffee-sop",
+  "version": "1.0.2",
+  "description": "Turn any agent into a pour-over brewing coach: exact dose and grind formulas, a timed pouring routine, and a one-variable-at-a-time flavor troubleshooting table — streamed on demand, always up to date.",
+  "author": {
+    "name": "Ray",
+    "url": "https://orbivo.co/@ray"
+  },
+  "homepage": "https://orbivo.co/p/pour-over-coffee-sop",
+  "repository": "https://github.com/orbivo/marketplace",
+  "license": "Proprietary",
+  "keywords": [
+    "ray",
+    "skill",
+    "streamed",
+    "live",
+    "orbivo"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Pour-Over Coffee Brewing SOP",
+    "shortDescription": "Turn any agent into a pour-over brewing coach: exact dose and grind formulas, a timed pouring routine, and a one-variable-at-a-time flavor troubleshooting table — streamed on demand, always up to date.",
+    "longDescription": "Turn any agent into a pour-over brewing coach: exact dose and grind formulas, a timed pouring routine, and a one-variable-at-a-time flavor troubleshooting table — streamed on demand, always up to date.",
+    "developerName": "Ray",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://orbivo.co/p/pour-over-coffee-sop",
+    "defaultPrompt": [
+      "Help me brew a v60 with 18g of coffee.",
+      "My last pour-over was too bitter — what should I change?",
+      "Suggest a grind size for a Hario V60 02."
+    ],
+    "brandColor": "#1F6FEB",
+    "composerIcon": "https://r2-storage.orbivo.co/product-icons/cmq9zj9pa000qkxedaanvqv54/c9efe5101ed94825.png",
+    "logo": "https://r2-storage.orbivo.co/product-icons/cmq9zj9pa000qkxedaanvqv54/c9efe5101ed94825.png"
+  }
+}

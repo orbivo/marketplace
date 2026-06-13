@@ -1,0 +1,31 @@
+{
+  "name": "demo-prompt",
+  "version": "1.0.0",
+  "description": "示範用：公開提示詞，直接複製即用",
+  "author": {
+    "name": "Ray",
+    "url": "https://orbivo.co/@ray"
+  },
+  "homepage": "https://orbivo.co/p/demo-prompt",
+  "repository": "https://github.com/orbivo/marketplace",
+  "license": "Proprietary",
+  "keywords": [
+    "ray",
+    "prompt",
+    "orbivo"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "影片腳本生產提示詞",
+    "shortDescription": "示範用：公開提示詞，直接複製即用",
+    "longDescription": "示範用：公開提示詞，直接複製即用",
+    "developerName": "Ray",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://orbivo.co/p/demo-prompt",
+    "defaultPrompt": [],
+    "brandColor": "#1F6FEB"
+  }
+}
