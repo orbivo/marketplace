@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "pour-over-coffee-sop",
+      "name": "stripe-best-practices",
       "source": {
         "source": "local",
-        "path": "./plugins/pour-over-coffee-sop"
+        "path": "./plugins/stripe-best-practices"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -16,15 +16,15 @@
       },
       "category": "Productivity",
       "interface": {
-        "displayName": "Pour-Over Coffee Brewing SOP",
-        "shortDescription": "Turn any agent into a pour-over brewing coach: exact dose and grind formulas, a timed pouring routine, and a one-variable-at-a-time flavor troubleshooting table — streamed on demand, always up to date."
+        "displayName": "stripe-best-practices",
+        "shortDescription": "Guides Stripe integration"
       }
     },
     {
-      "name": "shopline-payments-zingla-bnpl",
+      "name": "secret-pack",
       "source": {
         "source": "local",
-        "path": "./plugins/shopline-payments-zingla-bnpl"
+        "path": "./plugins/secret-pack"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -32,40 +32,8 @@
       },
       "category": "Productivity",
       "interface": {
-        "displayName": "任務：為 SHOPLINE Payments 金流加入「分期付款」功能（信用卡分期 + 中租 zingla 銀角零卡 BNPL）",
-        "shortDescription": "任務：為 SHOPLINE Payments 金流加入「分期付款」功能（信用卡分期 + 中租 zingla 銀角零卡 BNPL）"
-      }
-    },
-    {
-      "name": "untitled-skill",
-      "source": {
-        "source": "local",
-        "path": "./plugins/untitled-skill"
-      },
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
-      },
-      "category": "Productivity",
-      "interface": {
-        "displayName": "Untitled Skill",
-        "shortDescription": "Untitled Skill"
-      }
-    },
-    {
-      "name": "threads-hook-writer",
-      "source": {
-        "source": "local",
-        "path": "./plugins/threads-hook-writer"
-      },
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
-      },
-      "category": "Productivity",
-      "interface": {
-        "displayName": "Threads 開場鉤子寫手",
-        "shortDescription": "貼上主題，產出 5 條能停住拇指的 Threads 開場句"
+        "displayName": "Secret Ops Pack",
+        "shortDescription": "A multi-skill pack with a hidden flag (dogfood test)."
       }
     },
     {
@@ -85,10 +53,10 @@
       }
     },
     {
-      "name": "agent-skill",
+      "name": "ios-dev-pack",
       "source": {
         "source": "local",
-        "path": "./plugins/agent-skill"
+        "path": "./plugins/ios-dev-pack"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -96,8 +64,8 @@
       },
       "category": "Productivity",
       "interface": {
-        "displayName": "Agent Skill 起手式",
-        "shortDescription": "示範完整下載：寫好一個 SKILL.md 的最小骨架"
+        "displayName": "iOS Dev Pack",
+        "shortDescription": "示範用：一個技能包內含三個 iOS 開發技能"
       }
     }
   ]
