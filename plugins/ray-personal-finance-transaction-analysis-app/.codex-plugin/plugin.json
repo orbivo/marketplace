@@ -1,0 +1,31 @@
+{
+  "name": "ray-personal-finance-transaction-analysis-app",
+  "version": "1.0.1",
+  "description": "個人財務交易分析 App 生成器",
+  "author": {
+    "name": "ray",
+    "url": "https://orbivo.co/@ray"
+  },
+  "homepage": "https://orbivo.co/@ray/p/personal-finance-transaction-analysis-app",
+  "repository": "https://github.com/orbivo/marketplace",
+  "license": "Proprietary",
+  "keywords": [
+    "ray",
+    "prompt",
+    "orbivo"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "個人財務交易分析 App 生成器",
+    "shortDescription": "個人財務交易分析 App 生成器",
+    "longDescription": "個人財務交易分析 App 生成器",
+    "developerName": "ray",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://orbivo.co/@ray/p/personal-finance-transaction-analysis-app",
+    "defaultPrompt": [],
+    "brandColor": "#1F6FEB"
+  }
+}
