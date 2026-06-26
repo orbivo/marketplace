@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "stripe-best-practices",
+      "name": "ray-personal-finance-transaction-analysis-app",
       "source": {
         "source": "local",
-        "path": "./plugins/stripe-best-practices"
+        "path": "./plugins/ray-personal-finance-transaction-analysis-app"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -16,15 +16,15 @@
       },
       "category": "Productivity",
       "interface": {
-        "displayName": "stripe-best-practices",
-        "shortDescription": "Guides Stripe integration"
+        "displayName": "個人財務交易分析 App 生成器",
+        "shortDescription": "個人財務交易分析 App 生成器"
       }
     },
     {
-      "name": "secret-pack",
+      "name": "yayapipi-yapi-skill",
       "source": {
         "source": "local",
-        "path": "./plugins/secret-pack"
+        "path": "./plugins/yayapipi-yapi-skill"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -32,15 +32,15 @@
       },
       "category": "Productivity",
       "interface": {
-        "displayName": "Secret Ops Pack",
-        "shortDescription": "A multi-skill pack with a hidden flag (dogfood test)."
+        "displayName": "Yapi skill",
+        "shortDescription": "Yapi 的 Skill，很好用"
       }
     },
     {
-      "name": "demo-prompt",
+      "name": "yuchiehgung-yuki-recording-notes-organizer",
       "source": {
         "source": "local",
-        "path": "./plugins/demo-prompt"
+        "path": "./plugins/yuchiehgung-yuki-recording-notes-organizer"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -48,15 +48,15 @@
       },
       "category": "Productivity",
       "interface": {
-        "displayName": "影片腳本生產提示詞",
-        "shortDescription": "示範用：公開提示詞，直接複製即用"
+        "displayName": "recording-notes-organizer",
+        "shortDescription": "將個人錄音逐字稿整理成結構化重點筆記。當使用者說「幫我整理錄音」、「整理這段逐字稿」、 「依照錄音模板整理」、「這是我的錄音內容」、「幫我整理演講重點」、「整理成錄音紀錄」， 或貼上任何演講、訪談、個人獨白、讀書心得的文字內容時，務必使用此 skill。 支援四種情境模板：演講與觀點紀錄、設計發想、讀書筆記、工作規劃。 只要涉及將口語錄音內容轉為結構化文字紀錄，都應使用此 skill。"
       }
     },
     {
-      "name": "ios-dev-pack",
+      "name": "yuchiehgung-yuki-heptabase-note-card",
       "source": {
         "source": "local",
-        "path": "./plugins/ios-dev-pack"
+        "path": "./plugins/yuchiehgung-yuki-heptabase-note-card"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -64,8 +64,56 @@
       },
       "category": "Productivity",
       "interface": {
-        "displayName": "iOS Dev Pack",
-        "shortDescription": "示範用：一個技能包內含三個 iOS 開發技能"
+        "displayName": "heptabase-note-card",
+        "shortDescription": "將任意來源的文章、貼文、連結內容整理成結構化筆記，並自動存入 Heptabase 成為一張卡片。 當使用者說「存到 Heptabase」、「整理成卡片」、「幫我建立筆記卡」、「整理重點到 heptabase」， 或貼上連結／文章內容並要求整理時，務必使用此 skill。 也適用於：「幫我把這篇整理成筆記」、「記錄這個到知識庫」、「存成 heptabase 卡片」等指令。"
+      }
+    },
+    {
+      "name": "ray-auto-subtitle-burner",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ray-auto-subtitle-burner"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity",
+      "interface": {
+        "displayName": "任務：把任何一支影片，自動轉成字幕，再把字幕「燒」回影片上",
+        "shortDescription": "任務：把任何一支影片，自動轉成字幕，再把字幕「燒」回影片上"
+      }
+    },
+    {
+      "name": "ray-timeline-progress-bar-overlay",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ray-timeline-progress-bar-overlay"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity",
+      "interface": {
+        "displayName": "任務：替一支已剪好的影片，在畫面最底部疊一條「隨時間前進的進度條」",
+        "shortDescription": "任務：替一支已剪好的影片，在畫面最底部疊一條「隨時間前進的進度條」"
+      }
+    },
+    {
+      "name": "ray-demo-skill",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ray-demo-skill"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity",
+      "interface": {
+        "displayName": "claude-ads",
+        "shortDescription": "Multi-host paid advertising audit & optimization skill conforming to the Agent Skills open standard. Verified on Claude Code; experimental on Codex CLI, Cursor, Windsurf, Gemini CLI, Goose."
       }
     }
   ]
