@@ -5,6 +5,86 @@
   },
   "plugins": [
     {
+      "name": "ray-realms-realms-fix-prompt-0928",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ray-realms-realms-fix-prompt-0928"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity",
+      "interface": {
+        "displayName": "課程平台浮水印修正",
+        "shortDescription": "課程平台浮水印修正"
+      }
+    },
+    {
+      "name": "ray-realms-ios-vibe-coding-skills",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ray-realms-ios-vibe-coding-skills"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity",
+      "interface": {
+        "displayName": "AI Vibe Coding 超級技能包｜49 種專家級 AI 技能",
+        "shortDescription": "49 個可直接安裝的繁體中文 agent skills：SwiftUI、iOS 效能診斷、Xcode Build 優化、GitHub 工作流、Agent 規劃與交接。萃取自真實上線 App 的開發現場，全部通用化。"
+      }
+    },
+    {
+      "name": "qqq-changelog-neversinks-filter-2",
+      "source": {
+        "source": "local",
+        "path": "./plugins/qqq-changelog-neversinks-filter-2"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity",
+      "interface": {
+        "displayName": "**CHANGELOG - NeverSink's Filter 2**",
+        "shortDescription": "**CHANGELOG - NeverSink's Filter 2**"
+      }
+    },
+    {
+      "name": "ray-untitled-skill123",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ray-untitled-skill123"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity",
+      "interface": {
+        "displayName": "Untitled Skill",
+        "shortDescription": "Untitled Skill"
+      }
+    },
+    {
+      "name": "ray-for-huntor-fix",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ray-for-huntor-fix"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity",
+      "interface": {
+        "displayName": "目前的症狀",
+        "shortDescription": "目前的症狀"
+      }
+    },
+    {
       "name": "ray-personal-finance-transaction-analysis-app",
       "source": {
         "source": "local",
@@ -18,22 +98,6 @@
       "interface": {
         "displayName": "個人財務交易分析 App 生成器",
         "shortDescription": "個人財務交易分析 App 生成器"
-      }
-    },
-    {
-      "name": "yayapipi-yapi-skill",
-      "source": {
-        "source": "local",
-        "path": "./plugins/yayapipi-yapi-skill"
-      },
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
-      },
-      "category": "Productivity",
-      "interface": {
-        "displayName": "Yapi skill",
-        "shortDescription": "Yapi 的 Skill，很好用"
       }
     },
     {
