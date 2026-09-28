@@ -1,0 +1,31 @@
+{
+  "name": "ray-realms-realms-fix-prompt-0928",
+  "version": "1.0.1",
+  "description": "課程平台浮水印修正",
+  "author": {
+    "name": "ray-realms",
+    "url": "https://orbivo.co/@ray-realms"
+  },
+  "homepage": "https://orbivo.co/@ray-realms/p/realms-fix-prompt-0928",
+  "repository": "https://github.com/orbivo/marketplace",
+  "license": "Proprietary",
+  "keywords": [
+    "ray-realms",
+    "prompt",
+    "orbivo"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "課程平台浮水印修正",
+    "shortDescription": "課程平台浮水印修正",
+    "longDescription": "課程平台浮水印修正",
+    "developerName": "ray-realms",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://orbivo.co/@ray-realms/p/realms-fix-prompt-0928",
+    "defaultPrompt": [],
+    "brandColor": "#1F6FEB"
+  }
+}
